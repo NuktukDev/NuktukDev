@@ -16,8 +16,13 @@
 
 <!--Intro start-->
 
-I'm a dedicated self-taught programmer with a lifelong passion for problem-solving and computers.<br>
-My journey began at the age of 14 when I started learning PHP as a hobby, now I can confidently code anything my imagination desires!
+I love to work in JavaScript, PHP and Node.js, but also love expanding my utility belt with new languages that fit the job.
+
+My programming kick started when I wanted to add functionality to a browser text-based game I played back in 2016, after research, I discovered the game was run with MCCodes https://mccodes.com and started becoming an active member on the forum https://makewebgames.io where I would go on to make some of my own games.
+
+My favorite activities include journaling, running, and binging google to learn about new topics.
+
+I have recently been getting into Python to do web scraping with Selenium, so that I can log new entries from Buff, a CSGO website. I'm also interested in writing bash scripts to help automate some docker deployments.
 
 <!--Intro end-->
 
