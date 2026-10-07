@@ -1,10 +1,10 @@
 <!--h1 without bottom border-->
 
-[Portfolio](https://kylealdridge.dev/)
+[Portfolio](https://viseable.com/)
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2>Hi 👋, I'm Kyle Aldridge</h2></summary>
+    <summary><h2>Hi 👋, I'm Kyle</h2></summary>
   </ul>
 </div>
 <!--h2 without bottom border-->
